@@ -9,7 +9,7 @@ cover-img: /assets/img/dowon3.jpg
 
 ## About me
 
-**DowonPark** is a **Graduate student(Ph.D)**
+**DowonPark** is a **Graduate student(Integrated Master's And Doctral Course)**
 
 ## Contact
 
