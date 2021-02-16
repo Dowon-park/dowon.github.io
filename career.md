@@ -14,7 +14,7 @@ title: Research Career
 * Project: _**Gröbner Basis를 이용한 공개키 암호 안전성 분석 기술 연구(2017)**_
 * Project: _**Crossbred 알고리즘의 성능 개선 연구**_
 * Project: _**저피탐 신호 파라미터 추정 및 복원 기술 연구**_
-* Project: _**실변수함수 연립방정식을 이용한 블록암호 특성 분석 연구**
+* Project: _**실변수함수 연립방정식을 이용한 블록암호 특성 분석 연구**_
 
 
 <br/>
