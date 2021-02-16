@@ -9,7 +9,7 @@ title: Research Career
 # Research Experience
 
 ### Hanyang University(HYU), CAMP Lab
-#### Graduate Student(Ph.D), 2017 to Present
+#### Graduate Student(Integrated Master's And Doctral Course), 2017 to Present
 
 * Project: _**Gröbner Basis를 이용한 공개키 암호 안전성 분석 기술 연구(2017)**_
 * Project: _**Crossbred 알고리즘의 성능 개선 연구**_
