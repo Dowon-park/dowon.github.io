@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math & Cryptography
+title: Math \t & \t Cryptography
 subtitle: Cryptography And Mathematic Programming Laboratory, Hanyang University
 cover-img: /assets/img/dowon3.jpg
 ---
