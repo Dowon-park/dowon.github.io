@@ -10,7 +10,7 @@ cover-img: /assets/img/dowon3.jpg
 ## About me
 
 **DowonPark** is a **Graduate student in the Integrated Master's And Doctral Course at Hanyang University.**
-**My major is Applied Mathematics and Cryptography**
+My major is Applied Mathematics and Cryptography.
 
 ## Contact
 
