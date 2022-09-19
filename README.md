@@ -3,9 +3,9 @@
 
 ## 목적
 
-이 저장소는 연구 이력을 포함한 학술 웹-사이트를 생성하기 위한 것입니다.
-
-Github 교육 용도로도 활용할 생각입니다.
+ 이것은 제 개인 블로그를 위한 저장소이며,
+ 
+ 수학 및 암호학에 관련 글을 작성 할 계획입니다.
 
 ## 웹사이트 생성 가이드
 
@@ -26,9 +26,6 @@ Github 교육 용도로도 활용할 생각입니다.
 
 생성된 데모 확인: https://seokho-son.github.io
 
-## 사사
-
-이 저장소는 [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) 의 저장소를 클론하여 커스터마이징한 것입니다.
 
 ---
 
@@ -40,9 +37,6 @@ This repository is to create an Acedemic Website including curriculum vitae.
 I will use this repo for educational purpose as well. :)
 
 
-## Demo website
-
-Built Demo at https://seokho-son.github.io
 
 
 ## Acknowledgement
