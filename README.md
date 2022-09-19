@@ -15,11 +15,6 @@
 
 [상세 동영상 가이드: 약 10분](https://www.youtube.com/watch?v=UgPZXxL2jSw)
 
-### 간단 GIF 가이드
-
-가이드를 19 단계의 애니메이션으로 표현
-
-![Simple Guide](assets/img/simple-guide.gif)
 
 
 ## 데모 웹사이트
