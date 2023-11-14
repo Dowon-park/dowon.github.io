@@ -17,6 +17,7 @@ title: Research Career
 * Project: _**실변수함수 연립방정식을 이용한 블록암호 특성 분석 연구(2020)**_
 * Project: _**영지식증명 특화 해시 함수 안전성 분석 기술 연구(2021)**_
 * Project: _**SNARK 증명 시스템을 위한 암호 원천 기술 개발(2021 ~ Present)**_
+* Project: _**차분 특성 기반 블록암호 안전성 분석기법 및 개선방안 연구(2023)**_
 
 
 <br/>
@@ -24,6 +25,8 @@ title: Research Career
 # Honors and Awards
 
 * 국가암호기술 전문인력 양성과정 수료 및 우수상, 한국암호포럼, Korea(2020)
+* 국가암호공모전 장려상 수상, 한국암호포럼, Korea(2023)
+
 
 <br/>
 
